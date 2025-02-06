@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Xataka - Noticias de Tecnología e IA</title>
+        <link>https://www.xataka.com</link>
+        <description>Últimas noticias sobre inteligencia artificial, tecnología y robótica.</description>
+        <language>es</language>
+        <pubDate>Wed, 05 Feb 2025 10:05:00 +0000</pubDate>
+        <lastBuildDate>Wed, 05 Feb 2025 10:05:00 +0000</lastBuildDate>
+
+        <item>
+            <title>Google lanza Gemini 2.0 con acceso gratuito a su modelo de razonamiento</title>
+            <link>https://www.xataka.com/robotica-e-ia/google-lanza-gemini-2-0</link>
+            <description>La nueva versión de sus modelos de IA es más capaz que nunca.</description>
+            <pubDate>Wed, 05 Feb 2025 10:05:00 +0000</pubDate>
+            <guid isPermaLink="true">https://www.xataka.com/robotica-e-ia/google-lanza-gemini-2-0</guid>
+            <category>Inteligencia Artificial</category>
+        </item>
+
+        <item>
+            <title>ChatGPT vs DeepSeek: OpenAI acusa a sus rivales chinos</title>
+            <link>https://www.bbc.com/mundo/articles/cx2jnpjdzzlo</link>
+            <description>OpenAI acusó a sus rivales de usar su trabajo para desarrollar productos de IA.</description>
+            <pubDate>Thu, 06 Feb 2025 12:15:00 +0000</pubDate>
+            <guid isPermaLink="true">https://www.bbc.com/mundo/articles/cx2jnpjdzzlo</guid>
+            <category>Tecnología</category>
+        </item>
+
+    </channel>
+</rss>
